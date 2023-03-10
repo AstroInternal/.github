@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hello world ! Welcome to the official organization of AstroBots.
 
 <!--
 
